@@ -3,6 +3,7 @@ package com.reactnative2c2pexample;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
+import com.wednesdaynight.rn2c2p.RNMy2c2pSdkPackage;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;
@@ -22,7 +23,8 @@ public class MainApplication extends Application implements ReactApplication {
     @Override
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
-          new MainReactPackage()
+          new MainReactPackage(),
+            new RNMy2c2pSdkPackage()
       );
     }
   };

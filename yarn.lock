@@ -2978,9 +2978,9 @@ react-native-drawer-layout@1.2.0:
   dependencies:
     react-native-dismiss-keyboard "1.0.0"
 
-react-native-my2c2p-sdk@^0.5.0:
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/react-native-my2c2p-sdk/-/react-native-my2c2p-sdk-0.5.0.tgz#70c041863cd75665a7bb3c83b54bf2317f1fd34b"
+react-native-my2c2p-sdk@^0.5.1:
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/react-native-my2c2p-sdk/-/react-native-my2c2p-sdk-0.5.1.tgz#39951a7d48c6ca3df42d9d0737af7b6c616ed77a"
 
 react-native-tab-view@^0.0.59:
   version "0.0.59"
